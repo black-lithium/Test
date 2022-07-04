@@ -6,6 +6,10 @@ This is the first line.
 
 This is the second line.
 
+## stefpeschel's changes
+
+Blablablub
+
 ## Own changes
 
 Third line
